@@ -1,0 +1,4 @@
+pandas
+git+git://github.com/KohlbacherLab/epytope
+pyomo
+pysam
